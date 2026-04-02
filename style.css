@@ -1,0 +1,13 @@
+body {
+  background: purple;
+  width: auto;
+  height: auto;
+  font-family: sans-serif;
+  align-content: center;
+}
+
+.h1 {
+  color: aquamarine;
+  font-family: Times New Roman;
+}
+
